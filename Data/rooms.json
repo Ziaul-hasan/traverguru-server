@@ -1,0 +1,69 @@
+[
+    {
+        "id": "hr-1",
+      "name": "Standard Room",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "beds and bath": "1 Queen bed, 1 private bathroom",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge"],
+      "description": " A standard room is the most basic type of accommodation offered by a hotel. It usually comes with essential amenities like a bed, a bathroom, and basic furniture. The standard room is generally designed for solo travelers or couples who are looking for a budget-friendly option.",
+      "price": 100.00,
+      "ratings": 4.2,
+      "flexibility": "Non-refundable"
+    },
+    {
+        "id": "hr-2",
+      "name": "Deluxe Room",
+      "image": "https://cdn.loewshotels.com/loewshotels.com-2466770763/cms/cache/v2/5f5a6e0d12749.jpg/1920x1080/fit/80/86e685af18659ee9ecca35c465603812.jpg",
+      "beds and bath": "2 King bed, 1 private bathroom",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge", "Microwave"],
+      "description": "A deluxe room is a step up from a standard room and usually comes with more space, upgraded amenities, and better views. Deluxe rooms typically have more luxurious furnishings, such as a larger bed, plush seating, and higher-quality linens. They may also include additional amenities like a mini-fridge, a work desk, or a seating area.",
+      "price": 120.00,
+      "ratings": 4.5,
+      "flexibility": "Flexible"
+    },
+    {
+        "id": "hr-3",
+      "name": "Suite",
+      "image": "https://d1iwe50und7qx1.cloudfront.net/broadmoor.com-2121435814/cms/cache/v2/624b322e6bf56.jpg/1920x1080/fit;c:1,0,1999,1123;fp:49,56/80/f76f26d00dce5680aabeab65d139e217.jpg",
+      "beds and bath": "1 King bed, 1 Queen bed, 1 sofa set 2 private bathrooms",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge", "Microwave", "Coffee Maker"],
+      "description": "A suite is the most luxurious type of room available in a hotel. It is designed for travelers who are looking for a spacious and comfortable place to stay with a higher level of privacy. A suite typically includes a separate living room, bedroom, and bathroom. Suites may also come with additional amenities like a kitchenette, a Jacuzzi tub, or a balcony with a stunning view. They are ideal for families, couples, or travelers who need more space and privacy.",
+      "price": 180.00,
+      "ratings": 4.8,
+      "flexibility": "Flexible"
+    },
+    {
+        "id": "hr-4",
+      "name": "Standard Room",
+      "image": "https://k6c4b3s3.stackpathcdn.com/optimized_img/accommodations/deluxe1.jpg",
+      "beds and bath": "1 Queen bed, 1 private bathroom",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge"],
+      "description": " A standard room is the most basic type of accommodation offered by a hotel. It usually comes with essential amenities like a bed, a bathroom, and basic furniture. The standard room is generally designed for solo travelers or couples who are looking for a budget-friendly option.",
+      "price": 100.00,
+      "ratings": 4.2,
+      "flexibility": "Non-refundable"
+    },
+    {
+        "id": "hr-5",
+      "name": "Deluxe Room",
+      "image": "https://lh6.googleusercontent.com/LAbDs9JrwGjxAAQoHT1lNnKt4a5_OXDqw7S3hZQajGS30XvPwjynPOA8-afixA6QqxL_g7iPn12dRWTO40GhEyPS7n7CDzRYg61Ib334yCK6ZIPjLNZbZExrLk_8BPvf83fq1Qte",
+      "beds and bath": "2 King bed, 1 private bathroom",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge", "Microwave"],
+      "description": "A deluxe room is a step up from a standard room and usually comes with more space, upgraded amenities, and better views. Deluxe rooms typically have more luxurious furnishings, such as a larger bed, plush seating, and higher-quality linens. They may also include additional amenities like a mini-fridge, a work desk, or a seating area.",
+      "price": 120.00,
+      "ratings": 4.5,
+      "flexibility": "Flexible"
+    },
+    {
+        "id": "hr-6",
+      "name": "Suite",
+      "image": "https://hotelandra.com/wp-content/uploads/2022/01/Andra2483-Andra-Queen-Queen.jpg",
+      "beds and bath": "1 King bed, 1 Queen bed, 1 sofa set 2 private bathrooms",
+      "features": ["Free Wi-Fi", "Television", "Mini-Fridge", "Microwave", "Coffee Maker"],
+      "description": "A suite is the most luxurious type of room available in a hotel. It is designed for travelers who are looking for a spacious and comfortable place to stay with a higher level of privacy. A suite typically includes a separate living room, bedroom, and bathroom. Suites may also come with additional amenities like a kitchenette, a Jacuzzi tub, or a balcony with a stunning view. They are ideal for families, couples, or travelers who need more space and privacy.",
+      "price": 180.00,
+      "ratings": 4.8,
+      "flexibility": "Flexible"
+    }
+  ]
+  

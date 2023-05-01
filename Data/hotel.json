@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "image": "",
+      "name": "Pan Pacific Sonargaon Dhaka",
+      "type": "5-star hotel",
+      "facility": ["Swimming pool", "Fitness center", "Spa", "Business center"],
+      "hospitality": "Excellent",
+      "features": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "24-hour room service"],
+      "ratings": 4.7
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "The Westin Dhaka",
+      "type": "5-star hotel",
+      "facility": ["Swimming pool", "Fitness center", "Spa", "Business center"],
+      "hospitality": "Excellent",
+      "features": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "24-hour room service"],
+      "ratings": 4.6
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Le Meridien Dhaka",
+      "type": "5-star hotel",
+      "facility": ["Swimming pool", "Fitness center", "Spa", "Business center"],
+      "hospitality": "Excellent",
+      "features": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "24-hour room service"],
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "Radisson Blu Dhaka Water Garden",
+      "type": "5-star hotel",
+      "facility": ["Swimming pool", "Fitness center", "Spa", "Business center"],
+      "hospitality": "Excellent",
+      "features": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "24-hour room service"],
+      "ratings": 4.4
+    },
+    {
+      "id": 5,
+      "image": "",
+      "name": "Praasad Paradise",
+      "type": "4-star hotel",
+      "facility": ["Swimming pool", "Fitness center", "Spa", "Business center"],
+      "hospitality": "Very good",
+      "features": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "24-hour room service"],
+      "ratings": 4.2
+    }
+  ]
+  
